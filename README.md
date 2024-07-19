@@ -1,7 +1,8 @@
 # Meeting Summarizer and Plan of Action Generator using NLP
 
 This project leverages advanced Natural Language Processing (NLP) techniques to provide comprehensive meeting summaries and actionable plans. It processes video/audio files to extract key information, analyze sentiment and tone, and generate summaries. Additionally, it includes a feature to send emails with the summarized information to respective recipients.
-<img width="960" alt="app1" src="https://github.com/user-attachments/assets/ec78e246-4be9-438e-abfc-24f23ba0ddc6">
+<img width="960" alt="app1" src="<img width="960" alt="5" src="https://github.com/user-attachments/assets/7b528a01-6020-4760-8adf-7d54fb5f51be">
+">
 
 
 ## Features
